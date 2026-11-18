@@ -1,0 +1,11 @@
+tipo;nome;endereco;data_nascimento;sexo;matricula;curso;salario;cargo
+pessoa;Mariana Silva Alves;Rua das Acácias, 120;14/03/1995;F;;;;
+estudante;Carlos Pereira Rocha;Av. Brasil, 450;22/07/2002;M;EST202201;Engenharia de Software;;
+empregado;Beatriz Souza Santos;Rua Central, 89;10/11/1988;F;;;6500.00;Gerente de Projetos
+estudante_empregado;Rafael Gomes Barbosa;Rua das Palmeiras, 77;05/01/2000;M;EST202145;Ciência da Computação;3500.00;Desenvolvedor Júnior
+estudante;Alice Castro Oliveira;Rua Marechal, 310;19/09/2001;F;EST202312;Medicina;;
+empregado;Daniel Ribeiro Martins;Av. Paulista, 1000;03/04/1983;M;;;8200.00;Arquiteto de Soluções
+estudante_empregado;Juliana Mendes Duarte;Rua Bela Cintra, 45;17/08/1999;F;EST202088;Administração;4100.00;Assistente Financeiro
+pessoa;Fernando Lima Ferreira;Rua do Comércio, 55;29/12/1975;M;;;;
+estudante;Bruno Batista Toledo;Rua XV de Novembro, 88;12/06/2003;M;EST202403;Direito;;
+empregado;Camila Álvares Costa;Alameda Santos, 900;18/02/1991;F;;;7100.00;Engenheira de Dados
